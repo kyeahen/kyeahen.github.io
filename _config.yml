@@ -10,7 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-theme                  : "minimal-mistakes-jekyll"
+#theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -19,7 +19,7 @@ locale                   : "ko" #타깃 국가 설정
 title                    : "Yeen Blog" #블로그 제목, 블로그 좌측 상단의 제목
 title_separator          : "-"
 name                     : "Yeen Blog" #블로그 이름
-description              : "An amazing website." #블로그 설명
+description              :  #블로그 설명
 url                      : "https://kyeahen.github.io"
 baseurl                  : "/"
 repository               : "kyeahen/kyeahen.github.io"
