@@ -135,9 +135,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
+    - label: "ruddls00114"
+      icon: "fab fa-fw fa-github"
+      url: "https://ruddls00114.github.io"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
