@@ -138,9 +138,9 @@ footer:
     - label: "ruddls00114"
       icon: "fab fa-fw fa-github"
       url: "https://ruddls00114.github.io"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+    - label: "chogyujin"
+      icon: "fab fa-fw fa-github"
+      url: http://chogyujin.github.io
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
