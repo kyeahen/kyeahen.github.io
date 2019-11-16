@@ -140,10 +140,10 @@ footer:
       url: "https://ruddls00114.github.io"
     - label: "chogyujin"
       icon: "fab fa-fw fa-github"
-      url: http://chogyujin.github.io
-    - label: "GitHub"
+      url: "http://chogyujin.github.io"
+    - label: "goodgid"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://goodgid.github.io"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
