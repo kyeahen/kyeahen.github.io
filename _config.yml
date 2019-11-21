@@ -144,9 +144,9 @@ footer:
     - label: "goodgid"
       icon: "fab fa-fw fa-github"
       url: "https://goodgid.github.io"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
+    - label: "tjdcks12"
+      icon: "fab fa-fw fa-github"
+      url: "https://tjdcks12.github.io"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
