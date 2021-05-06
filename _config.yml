@@ -12,13 +12,13 @@
 
 #theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko" #타깃 국가 설정
-title                    : "Yeen Blog" #블로그 제목, 블로그 좌측 상단의 제목
+title                    : "yeen blog" #블로그 제목, 블로그 좌측 상단의 제목
 title_separator          : "-"
-name                     : "Yeen Blog" #블로그 이름
+name                     : "yeen blog" #블로그 이름
 description              :  #블로그 설명
 url                      : "https://kyeahen.github.io"
 baseurl                  : "/"
@@ -147,9 +147,9 @@ footer:
     - label: "tjdcks12"
       icon: "fab fa-fw fa-github"
       url: "https://tjdcks12.github.io"
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+    - label: "naljin"
+      icon: "fab fa-fw fa-medium"
+      url: https://sujinnaljin.medium.com/
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
