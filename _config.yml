@@ -119,6 +119,9 @@ author:
     - label: "Medium"
       icon: "fab fa-fw fa-medium"
       url: "https://medium.com/@kyeahen"
+    - label: "Stack Overflow"
+      icon: "fab fa-fw fa-stack-overflow"
+      url: "https://stackoverflow.com/users/16380585/kyeahen"      
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       #url: 
