@@ -7,12 +7,20 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic');
+//@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic');
 
 //손글씨
 @font-face {
     font-family: 'IM_Hyemin-Regular';
     src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2106@1.1/IM_Hyemin-Regular.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+//고딕체
+@font-face {
+    font-family: 'KoPubDotumMedium';
+     src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/KoPubDotumMedium.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
